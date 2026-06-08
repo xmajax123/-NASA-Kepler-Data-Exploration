@@ -23,7 +23,7 @@ I also used Python to clean the dataset, handle missing values, and get a better
 
  **[Open Notebook in Google Colab](https://colab.research.google.com/drive/1FiEv7GNgoZFuKeV6q1TJsMCGDkyBwO3z?usp=sharing)**
 
-## 🎨 Data Storytelling (Power BI)
+##  Data Storytelling (Power BI)
 * **ASA-Style Interface:** Designed a clean, dark-themed UI inspired by mission control HUD screens.
 * **Custom DAX Measures**
 
