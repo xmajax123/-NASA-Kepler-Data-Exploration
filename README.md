@@ -1,7 +1,6 @@
 # -NASA-Kepler-Data-Exploration
 Exploratory Data Analysis (EDA) of NASA’s Kepler exoplanet dataset using advanced SQL in BigQuery and immersive data storytelling in Power BI
-#  NASA Kepler Data Exploration & Immersive Dashboard
-
+#  NASA Kepler Data Exploration 
 This project is my take on analyzing NASA's Kepler space telescope registry. I combined deep-dive data exploration in SQL with data storytelling in Power BI, to build an interactive cosmic infographic instead.
 
 ---
